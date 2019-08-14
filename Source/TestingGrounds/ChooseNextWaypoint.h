@@ -6,7 +6,8 @@
 #include "BehaviorTree/BTTaskNode.h"
 #include "BehaviorTree/BlackboardComponent.h"
 #include "AIController.h"
-#include "PatrollingGuard.h" // TODO remove coupling
+//#include "PatrollingGuard.h" // TODO remove coupling
+#include "PatrolRoute.h"
 #include "Runtime/AIModule/Classes/BehaviorTree/BehaviorTreeTypes.h"
 #include "ChooseNextWaypoint.generated.h"
 
